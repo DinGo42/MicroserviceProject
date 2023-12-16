@@ -20,4 +20,5 @@ ER-diagram
 Class diagram
 
 
-![image](https://github.com/DinGo42/MicroserviceProject/assets/91385595/3db8e56d-4931-4ab9-9bf9-6e410cc1ddb2)
+![image](https://github.com/DinGo42/MicroserviceProject/assets/91385595/48f0ad76-f102-45dc-9bf3-2d94d8cc9f61)
+
